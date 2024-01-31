@@ -5,7 +5,7 @@
 [submodule "geoGraph"]
 	path = geoGraph
 	url = https://github.com/EvolEcolGroup/geograph
-	branch = master
+	branch = main
 [submodule "pastclim"]
 	path = pastclim
 	url = https://github.com/EvolEcolGroup/pastclim
