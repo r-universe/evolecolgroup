@@ -1,10 +1,16 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/evolecolgroup/evolecolgroup.r-universe.dev
 	branch = HEAD
+[submodule "geoGraph"]
+	path = geoGraph
+	url = https://github.com/EvolEcolGroup/geograph
+	branch = master
 [submodule "pastclim"]
 	path = pastclim
-	url = https://github.com/evolecolgroup/pastclim
+	url = https://github.com/EvolEcolGroup/pastclim
+	branch = dev
 [submodule "tidysdm"]
 	path = tidysdm
-	url = https://github.com/evolecolgroup/tidysdm
+	url = https://github.com/EvolEcolGroup/tidysdm
+	branch = dev
