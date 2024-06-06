@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/evolecolgroup/evolecolgroup.r-universe.dev
 	branch = HEAD
+[submodule "admixtools"]
+	path = admixtools
+	url = https://github.com/uqrmaie1/admixtools
+	registered = false
 [submodule "geoGraph"]
 	path = geoGraph
 	url = https://github.com/EvolEcolGroup/geograph
