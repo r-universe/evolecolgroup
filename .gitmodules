@@ -14,6 +14,10 @@
 	path = pastclim
 	url = https://github.com/EvolEcolGroup/pastclim
 	branch = dev
+[submodule "tidygenclust"]
+	path = tidygenclust
+	url = https://github.com/EvolEcolGroup/tidygenclust
+	branch = main
 [submodule "tidypopgen"]
 	path = tidypopgen
 	url = https://github.com/EvolEcolGroup/tidypopgen
