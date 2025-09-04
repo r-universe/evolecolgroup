@@ -21,7 +21,7 @@
 [submodule "tidypopgen"]
 	path = tidypopgen
 	url = https://github.com/EvolEcolGroup/tidypopgen
-	branch = main
+	branch = dev
 [submodule "tidysdm"]
 	path = tidysdm
 	url = https://github.com/EvolEcolGroup/tidysdm
