@@ -1,8 +1,0 @@
-[
-  {
-    "package": "tidypopgen",
-    "url": "https://github.com/EvolEcolGroup/tidypopgen",
-    "via": ["tidygenclust"],
-    "from": "tidygenclust"
-  }
-]
