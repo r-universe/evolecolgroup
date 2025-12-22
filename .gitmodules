@@ -6,6 +6,10 @@
 	path = admixtools
 	url = https://github.com/uqrmaie1/admixtools
 	branch = master
+[submodule "crstools"]
+	path = crstools
+	url = https://github.com/EvolEcolGroup/crstools
+	branch = main
 [submodule "geoGraph"]
 	path = geoGraph
 	url = https://github.com/EvolEcolGroup/geograph
