@@ -9,7 +9,7 @@
 [submodule "crstools"]
 	path = crstools
 	url = https://github.com/EvolEcolGroup/crstools
-	branch = main
+	branch = dev
 [submodule "geoGraph"]
 	path = geoGraph
 	url = https://github.com/EvolEcolGroup/geograph
